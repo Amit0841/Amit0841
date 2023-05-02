@@ -15,11 +15,9 @@
 
 - 📫 How to reach me **aroy16063@gmail.com**
 
-- 🌏 Visit to my <a href="https://Amit0841.github.io/">Portfolio</a>
-
 - 📃 Look at my [Resume](https://drive.google.com/file/d/1WcBFkGCgEt_frdzjlxroYvERnTUr7bVb/view?usp=sharing) 
 
-- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/Amit0841)
+- 👨‍💻 All of my projects are available at [https://Amit0841.github.io/](https://Amit0841.github.io/)
 
  
 </p>
