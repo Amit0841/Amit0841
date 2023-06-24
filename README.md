@@ -8,11 +8,12 @@
 <a href="https://linkedin.com/in/amit roy" target="blank"><img align="center" src="https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e474d13a9du3fm663pgxm33lhj00243k21o9qync7ji&rid=giphy.gif&ct=s" alt="LinkedIn" height="30" width="40" /></a>
   </p>
   <br>
-    <br>
+  <br>
   <p>
+    
 - 🔭 I’m currently pursuing **Java Backend Development**
   
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Spring** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Mysql  & DSA**
 
