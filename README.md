@@ -13,7 +13,7 @@
       
 - 🔭 I’m currently pursuing **Java Backend Development**
  
-- 🌱 I’m currently learning **Spring Boot** 
+- 🌱 I’m currently learning **Spring** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Mysql  & DSA**
 
