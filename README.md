@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aroy16063@gmail.com**
 
-- 📃 Look at my [Resume](https://drive.google.com/file/d/1WcBFkGCgEt_frdzjlxroYvERnTUr7bVb/view?usp=sharing) 
+- 📃 Look at my [Resume](https://drive.google.com/file/d/1H93u7iZX4YWsWzxiE6gKoHT-BNrrKwMZ/view?usp=sharing) 
 
 - 👨‍💻 All of my projects are available at [https://Amit0841.github.io/](https://Amit0841.github.io/)
 </p>
