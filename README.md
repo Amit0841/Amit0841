@@ -11,9 +11,9 @@
   <br>
   <p>
         
-- 🔭 I’m currently pursuing **Java Backend Development**
+- 🔭 I’m currently pursuing **Backend Development**
   
-- 🌱 I’m currently learning **Angular** 
+- 🌱 I’m currently learning **Python** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Mysql  & DSA**
 
