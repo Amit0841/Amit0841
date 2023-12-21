@@ -13,7 +13,7 @@
         
 - 🔭 I’m currently pursuing **Backend Development**
   
-- 🌱 I’m currently learning **Python** 
+- 🌱 I’m currently learning **Angular** 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Mysql  & DSA**
 
