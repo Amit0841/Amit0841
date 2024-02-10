@@ -2,7 +2,7 @@
 <h3 align="center">A passionate java backend developer</h3>
 <div align="center">
   <img height="" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47l1ahxndseu2uvbiw4a2bq2thd6u59n814agkrlf3&rid=200.webp&ct=g"  />
-            
+              
 </div>      
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
