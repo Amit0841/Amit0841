@@ -3,7 +3,7 @@
 <div align="center">
   <img height="" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47l1ahxndseu2uvbiw4a2bq2thd6u59n814agkrlf3&rid=200.webp&ct=g"  />
               
-</div>                               
+</div> 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://linkedin.com/in/amit roy" target="blank"><img align="center" src="https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif?cid=ecf05e474d13a9du3fm663pgxm33lhj00243k21o9qync7ji&rid=giphy.gif&ct=s" alt="LinkedIn" height="30" width="40" /></a>
